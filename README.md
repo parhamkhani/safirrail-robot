@@ -1,7 +1,9 @@
 # ربات رزرو بلیط قطار سفیر ریل 2027
-<div>
-  <img src="./safirrail-banner.jpg" width="900" alt="safirrail banner">
-</div>
+<p align="center">
+  <img src="./safirrail-banner.jpg"
+       alt="SafirRail Train Booking Bot"
+       width="700">
+</p>
 
 ربات **رزرو خودکار بلیط قطار سفیر ریل** برای جستجو و رزرو سریع بلیط در زمان‌هایی طراحی شده که ظرفیت‌ها در مدت کوتاهی باز می‌شوند و سرعت عملکرد اهمیت زیادی دارد.
 
